@@ -3,6 +3,7 @@
 /bin
 /dist
 *.swp
+.envrc
 .idea
 /acorn
 /go.work
